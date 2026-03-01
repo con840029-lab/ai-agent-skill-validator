@@ -160,7 +160,6 @@ const deleteSkill = async (id) => {
       ElMessage.error('删除失败')
     }
   }
- }
 }
 
 const getStatusType = (status) => {
